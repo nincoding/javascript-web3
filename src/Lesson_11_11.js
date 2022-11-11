@@ -119,4 +119,4 @@ confirm() 메서드를 활용해서 확인, 취소창
 
 var result = confirm('제이쿼리 좋아하니?'); //confirm()메소드는 확인누르면 true, 취소누르면 false에 저장
 var text = result ? 'good' : 'bad';
-alert(text);
+alert(text); 
